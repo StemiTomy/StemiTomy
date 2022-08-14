@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @StemiTomy, also knowkn as Stelut Tomoiaga
+- 👋 Hi, I’m Stelut Tomoiaga @StemiTomy
+- Chek out my webpage for more info https://www.steluttomoiaga.com/
 - 👀 I’m interested in software development, also web development.
-- 🌱 I’m currently learning Java, JS, Python, MySQL databases and PHP among others like iOS & Android development.
+- 🌱 I’m currently learning Java, Kotlin, C#, JS, Python, Firebase, MySQL databases and PHP among others like iOS & Android development.
 - 💞️ I’m looking to collaborate on any project ;)
 - 📫 Eeach me by e-mail: stemitomy@gmail.com
 
